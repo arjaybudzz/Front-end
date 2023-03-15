@@ -222,3 +222,5 @@ document.onmousemove = function(e) {
 window.onload = dragMove;
 
 //----------------End of script for dragging elements----------------------//
+
+/********************************END OF CODE********************************?
