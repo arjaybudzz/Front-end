@@ -3,7 +3,7 @@
  * *************************SCRIPT FOR MOMENTUM APP*****************************
  *  Notes:                                                                     *
  *  1. The concept of my code for to do list is based at                       *
- *  w3schools.com. I have added some modifications to the script and some      *
+ *  w3schools.com. I have added some modifications and some                    *
  *  features like it can be dragged anywhere.                                  *
  *  2. The javascript code for weather api is in a different file named        *
  *  weather.js.                                                                *
