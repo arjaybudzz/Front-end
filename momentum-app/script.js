@@ -68,7 +68,6 @@ function displayTime() {
     timeDisplay.innerHTML = hr + ':' + min + ':' + sec;
 }
 
-displayTime();
 
 function displayDate() {
     let todayDisp = document.getElementById("date");
