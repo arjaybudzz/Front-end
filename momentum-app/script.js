@@ -24,13 +24,13 @@ function greet() {
     
     let hr = timeToday.getHours();
 
-    if (hr < 12) {
+    if (hr >= 0 || hr < 12) {
         statement = timeGreet[0];
     }
-    else if (hr >= 12 || hr < 6) {
+    if (hr >= 12 || hr < 18) {
         statement = timeGreet[1];
     }
-    else {
+    if (hr >= 18 || hr < 23) {
         statement = timeGreet[2];
     }
 
