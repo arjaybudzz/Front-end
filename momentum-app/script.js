@@ -152,7 +152,7 @@ function addTask() {
     else {
         document.getElementById("task-lists").appendChild(newList);
     }
-    document.getElementById("task-input").value = "";
+    document.getElementById("task-input").value = "";   //refreshes input
 
 
     let span = document.createElement("SPAN");
