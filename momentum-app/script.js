@@ -2,12 +2,10 @@
 /*******************************************************************************
  * *************************SCRIPT FOR MOMENTUM APP*****************************
  *  Notes:                                                                     *
- *  1. The concept of my code for to do list is based at                       *
- *  w3schools.com. I have added some modifications and some                    *
- *  features like it can be dragged anywhere.                                  *
- *  2. The javascript code for weather api is in a different file named        *
+ *                                                                             *
+ *  1. The javascript code for weather api is in a different file named        *
  *  weather.js.                                                                *
- *  3. Local Storage Utilization is now included.                              *
+ *  2. Local Storage Utilization is now included.                              *
  *  Weather api source: https://api.openweathermap.org/data/2.5/weather?       *
  *                  THIS IS A WORK IN PROGRESS                                 *
  * *****************************************************************************/
