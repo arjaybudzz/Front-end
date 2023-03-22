@@ -7,7 +7,7 @@
  *  weather.js.                                                                *
  *  2. Local Storage Utilization is now included.                              *
  *  Weather api source: https://api.openweathermap.org/data/2.5/weather?       *
- *                  THIS IS A WORK IN PROGRESS                                 *
+ *                              FOR SUBMISSION                                 *
  * *****************************************************************************/
 
 /**********************Function for Intro and greeting***********************/
