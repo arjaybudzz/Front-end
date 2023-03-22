@@ -23,7 +23,6 @@ function greet() {
     let statement = "";
     let timeToday = new Date();
     let uniqueKeys = "nameInp" + localStorage.length;   //automatically create keys
-    //get individual values.
     let hr = timeToday.getHours();
 
     if (hr >= 0 && hr < 12) {
