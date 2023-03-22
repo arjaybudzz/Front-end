@@ -36,6 +36,7 @@ function greet() {
     startButton.onclick = () => {
         if (document.getElementById("name").value === "") {
             alert("Please enter your name.");
+            window.localStorage.removeItem(uniqueKeys);
         }
         else {
             window.localStorage.setItem(uniqueKeys, document.getElementById("name").value);  //store name locally
@@ -152,6 +153,7 @@ function addTask() {
 
     if (taskInput === "") {
         alert("Please Input your task.");
+        window.localStorage.removeItem(uniqueKeys);
     }
     else {
         document.getElementById("task-lists").appendChild(newList);
